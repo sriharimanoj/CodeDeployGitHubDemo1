@@ -1,0 +1,28 @@
+Version 1.0.3 - 29-07-2014
+
+Pushnotification changed from GCM and Itunes to API service
+
+Version 1.0.4
+
+Code Optimization
+
+Version 1.0.5
+
+Admin Side bug Fixing and Graphical representation of tranaction added
+Company back end  - TDispatch panel updated with map of drivers and routes
+Company back end - Graphical representation of tranaction added
+Dispatcher back end - TDispatch panel updated with map of drivers and routes
+Dispatcher back end - Graphical representation of tranaction added
+
+Driver list restricted - 50 drivers
+Driver moments added in passenger map when searching
+Passenger search request reduced as per area wise
+
+Version 1.0.6
+
+Mongo DB - Progress
+
+
+Version 1.0.7
+
+PHP version Upgrade from 5.3 to 5.4

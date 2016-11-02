@@ -1,0 +1,287 @@
+<style type="text/css">
+.about_bottom_inner{width:100%; float:left;}</style>
+<div class="portfolio_sec portfolio_sec_port">
+	<ul class="portfolio_list">
+		<li class="runboy_portfolio" id="runboy">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" target="_blank" title="512 Rides"><img alt="runboy" src="public/images/runboy.png" /> </a>
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/us/app/runboy-your-local-needs/id1052866470?ls=1&amp;mt=8" rel="nofollow" target="_blank" title="App Store">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.runboy" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Runboy</h2>
+					<p class="desc1">
+						Runboy is a Local shopping &amp; services app for people to fulfil their daily needs. We have developed this app for both Android and Apple user where they can shop daily needs such as Grocery, Milk, Meat etc in few taps. This app also as allows people to request local services such as Plumbing, Handyman, Carpentry, Painting and Laundry Services.</p>
+				</div>
+			</div>
+		</li>
+		<li class="aa_ah_portfolio" id="aa_ah">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Smart Cops</h2>
+					<p class="desc1">
+						Smart cops is a chat application which we developed for The Government of Madhya Pradesh, India. MP police had intended to develop a dedicated closed user group(CUG) network for connecting people in a secure way. Smart cops app allows people to intimate the criminal activities to the police department via instant messaging service . This app enables push to talk for people and the cops to send voice messages to each other. This app also enables to share the location by using GPS.</p>
+				</div>
+				<div class="portfolio_img wow fadeInRight animated">
+					<a href="http://512rides.com/" rel="nofollow" target="_blank" title="512 Rides"><img alt="aa_ha" src="public/images/aa_ha.png" /></a>
+					<div class="appstore_link">
+						&nbsp;</div>
+				</div>
+			</div>
+		</li>
+		<li class="fastafasta_portfolio" id="fastafasta">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" target="_blank" title="Fasta Fasta"><img alt="Fasta Fasta" src="public/images/fastafasta.png" /> </a>
+					<div class="appstore_link">
+						<a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.fastafasta.passenger" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Fasta Fasta</h2>
+					<p class="desc1">
+						Fasta Fasta is a radio taxi booking service based on Tanzania. Fasta Fasta allows users to hire intra city vehicles(Taxis, Bikes, Auto ) via the smartphone application. The passenger needs to select the location as well as the service they want. The passenger also can see all the bodaboda drivers who have been connected with the services.</p>
+				</div>
+			</div>
+		</li>
+		<li id="q8_taxi">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Q8 Taxi</h2>
+					<p class="desc1">
+						Q8 taxi is an on-demand taxi booking solution that enables easy taxi hailing, tracking and managing trips. This app contains essential features for both drivers and passengers which allows them to navigate using GPS system. This app also offers reliable payment mode for easy transactions.</p>
+				</div>
+				<div class="portfolio_img wow fadeInRight animated">
+					<a href="http://blu.cab/" rel="nofollow" target="_blank" title="Blu Cab"><img alt="Blu Cab" src="public/images/09.png" /> </a><!-- <a class="yellow_but" href="http://mtl.taximobility.com/" rel="nofollow" target="_blank" title="Blu Cab">View Website</a> !-->
+					<div class="appstore_link">
+						<a class="pricing_app" href=" https://itunes.apple.com/us/app/q8-taxi/id1024886828?ls=1&amp;mt=8" rel="nofollow" target="_blank" title="App Store">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.q8taxi" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+			</div>
+		</li>
+		<li class="owayride_portfolio" id="owayride">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" target="_blank" title="Oway Ride"><img alt="Oway Ride" src="public/images/owayride.png" /> </a>
+					<div class="appstore_link">
+						<a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.owayride" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Oway Ride</h2>
+					<p class="desc1">
+						Oway Ride is Myanmar based taxi company offers three types of service such as standard, prime and limo. After selecting the category, passenger can hire the nearest cabbie and confirm their pick&shy;up and drop location via drop down selection directly in the app. Oway Ride then confirms the request and sends the cabbie&#39;s information such as name and mobile number to the passenger.</p>
+				</div>
+			</div>
+		</li>
+		<li class="anfalimo_portfolio" id="anfalimo">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Anfalimo</h2>
+					<p class="desc1">
+						Anfalimo is a customized smartphone app developed for Limousine businesses which is available in both android and IOS platform. This app completely eliminates the hassle of phone calls &amp; text messages which enables drivers and passenger to book, manage, track their locations. Both drivers and passengers can receive the status of current booking also they could see the history of past trips.</p>
+				</div>
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" target="_blank" title="512 Rides"><img alt="anfalimo" src="public/images/anfalimo.png" /></a>
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/us/app/anfalimo/id1012358765?ls=1&amp;mt=8" rel="nofollow" target="_blank" title="App Store">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.anfalimo" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+			</div>
+		</li>
+		<li class="qwikdryer_portfolio" id="qwikdryer">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" target="_blank" title="Qwik dryver"><img alt="Qwik dryver" src="public/images/qwikdryer.png" /> </a>
+					<div class="appstore_link">
+						<a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.qwikdryver" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Qwik dryver</h2>
+					<p class="desc1">
+						Qwik dryver is a chauffeured car service offering in India. We have delivered an end to end solution for hiring private drivers to seamlessly pick up your car for driving. The customer can hire nearest driver by tapping either drive now or drive later. All the rides can be tracked and viewed with in the app itself. The user can also share their ride via whatsapp, sms or email to their contacts.</p>
+				</div>
+			</div>
+		</li>
+		<li id="riperides">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Ripe Rides</h2>
+					<p class="desc1">
+						Ripe Rides strives to provide high quality services as well as clean and reliable luxury sedans, operated by professionally superior drivers. Clients are always our number one priority, which is reflected in our technological innovation, feedback process, and dedication to safety.</p>
+				</div>
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" title="Ripe rides"><img alt="Ripe rides" src="public/images/riperides.png" /></a>
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/ca/app/ripe-rides/id1015461159?mt=8" rel="nofollow" target="_blank" title="App Store">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.riperide" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+			</div>
+		</li>
+		<li id="blu_taxi">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInRight animated">
+					<a href="http://blu.cab/" rel="nofollow" target="_blank" title="Blu Cab"><img alt="Blu Cab" src="public/images/08.png" /> </a><!-- <a class="yellow_but" href="http://mtl.taximobility.com/" rel="nofollow" target="_blank" title="Blu Cab">View Website</a> !-->
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/us/app/blu-cab/id1000645702?ls=1&amp;mt=8" rel="nofollow" target="_blank" title="App Store">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.blu.passenger" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Blu Cab</h2>
+					<p class="desc1">
+						Blu cab app is a comprehensive taxi booking system which allows cabbies to become visible to the customers easily via GPS facility. Passengers can book, track and manage trips through the mobile app. Also the taxi driver can keep track of the ongoing trip. The company can see enhanced statistical information such as jobs done, jobs rejected, kilometres driven etc.</p>
+				</div>
+			</div>
+		</li>
+		<li id="ibookride">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						iBookRide</h2>
+					<p class="desc1">
+						This site is a simple yet attractive mobile app for taxi booking. The booking is based on its usage by the people such as business class, economy, SUV/Mini Van, and VIP. User has to select the country and city name to book taxi. Based on the pick-up and drop location the fare is calculated automatically inclusive of waiting charges if any.</p>
+				</div>
+				<div class="portfolio_img wow fadeInRight animated">
+					<a href="https://www.ibookride.com/" rel="nofollow" target="_blank" title="iBookRide"><img alt="iBookRide" src="public/images/01.png" /> </a><!-- <a class="yellow_but" href="https://www.ibookride.com/" rel="nofollow" target="_blank" title="iBookRide">View Website</a> !-->
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/TR/app/id904950234" rel="nofollow" target="_blank" title="App Store">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.ibookride&amp;hl=en" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+			</div>
+		</li>
+		<li class="legal_taxi_portfolio" id="legal_taxi">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" target="_blank" title="Legal Taxi"><img alt="Legal Taxi" src="public/images/legal_taxi.png" /> </a>
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/al/app/legal-taxis/id1062758594?mt=8" target="_blank" title="App Store">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.legaltaxis.passenger" rel="nofollow" target="_blank" title="Play Store">&nbsp;</a></div>
+				</div>
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Legal Taxi</h2>
+					<p class="desc1">
+						Legal taxi is a London based taxi company provides app based taxi service. The passenger app will fetch the location automatically and it will display the nearby taxis for hire. On a single click user can request a taxi and driver will be notified via driver app. At the end of the ride, passenger will get a receipt and they can select a payment mode by selecting drop down. Passenger can also share and rate their trip within the app.</p>
+				</div>
+			</div>
+		</li>
+		<li id="mtl">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						MTL</h2>
+					<p class="desc1">
+						This site introduces the taxi booking application which allows the passengers to select the pick- up and drop location on the map to hire taxi. The service is available for worthwhile rates which is calculated automatically based on the distance. Passenger can view approaching taxi using GPS facility. Passengers can provide feedback on drivers.</p>
+					<!--<a class="pricing_app" rel="nofollow" href="#" target="_blank" title="App Store"> </a> --><!-- <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.mtl.passenger" rel="nofollow" target="_blank" title="Play Store"> </a> !--></div>
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="http://mtl.taximobility.com/" rel="nofollow" target="_blank" title="MTL"><img alt="MTL" src="public/images/06.png" /> </a><!-- <a class="yellow_but" href="http://mtl.taximobility.com/" rel="nofollow" target="_blank" title="MTL">View Website</a> !-->
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/us/app/mtl-driver/id955132799?mt=8" rel="nofollow" target="_blank" title="Passenger Mobile Application">&nbsp;</a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.mtl.driver" rel="nofollow" target="_blank" title="Driver Mobile Application">&nbsp;</a></div>
+				</div>
+			</div>
+		</li>
+		<!-- <li id="riperides">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="javascript:;" rel="nofollow" title="Ripe rides"><img alt="Ripe rides" src="public/images/riperides.png" /></a>
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/ca/app/ripe-rides/id1015461159?mt=8" rel="nofollow" target="_blank" title="App Store"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.riperide" rel="nofollow" target="_blank" title="Play Store"> </a></div>
+				</div>
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Ripe rides</h2>
+					<p class="desc1">
+						Ripe Rides strives to provide high quality services as well as clean and reliable luxury sedans, operated by professionally superior drivers. Clients are always our number one priority, which is reflected in our technological innovation, feedback process, and dedication to safety.</p>
+				</div>
+			</div>
+		</li> !--><!-- <li id="roslimo">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Roselimos</h2>
+					<p class="desc1">
+						This is a taxi booking system which consist of both driver app and passenger app. The drivers can track their ongoing trips in real time. The taxi can be located on the map using GPS facility. The user can select their pick-up and drop location by tapping on the map. Notifications are sent when the taxi arrives at the pick-up spot.</p>
+					 <a class="pricing_app" href="https://itunes.apple.com/us/app/rose-passenger/id942968404?ls=1&mt=8" rel="nofollow" target="_blank" title="App Store"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.rose.passenger&hl=en" rel="nofollow" target="_blank" title="Play Store"> </a> </div>
+				<div class="portfolio_img wow fadeInRight animated">
+					<a href="https://www.roselimos.com/" rel="nofollow" target="_blank" title="Roselimos"><img alt="Roselimos" src="public/images/05.png" /> </a> <a class="yellow_but" href="https://www.roselimos.com/" rel="nofollow" target="_blank" title="Roselimos">View Website</a>  
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/us/app/rose-passenger/id942968404?ls=1&mt=8" rel="nofollow" target="_blank" title="App Store"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.rose.passenger&hl=en" rel="nofollow" target="_blank" title="Play Store"> </a></div>
+				</div>
+			</div>
+		</li>
+		<li id="taxius">
+			<div class="align_center">
+				<div class="portfolio_img  wow fadeInLeft animated">
+					<a href="http://taxi.us/" rel="nofollow" target="_blank" title="Taxi.us"><img alt="Taxi.us" src="public/images/02.png" /> </a> <a class="yellow_but" href="http://taxi.us/" rel="nofollow" target="_blank" title="Taxi.us">View Website</a> 
+					<div class="appstore_link">
+						<a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.taxius.driver" rel="nofollow" target="_blank" title="Driver Mobile Application"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.taxius.passenger" rel="nofollow" target="_blank" title="Passenger Mobile Application"> </a></div>
+				</div>
+				<div class="portfolio_info portfolio_info_taxius">
+					<h2 class="title3">
+						Taxi.us</h2>
+					<p class="desc1">
+						Taxi.us is a taxi booking app developed for both android and IOS users. Passengers can tap on the map to select the pick up and drop location. The automatic fare calculator is made available with the app. Passengers can provide feedback on driver and share their opinion on social media. The receipts for the payments are sent via email.</p>
+					 <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.taxius.driver" rel="nofollow" target="_blank" 
+				title="Driver Mobile Application">Driver</a>
+				<a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.taxius.passenger" rel="nofollow" target="_blank" 
+				title="Passenger Mobile Application">Passenger</a></div>
+			</div>
+		</li>
+		<li id="edison">
+			<div class="align_center">
+				<div class="portfolio_info">
+					<h2 class="title3">
+						Edison</h2>
+					<p class="desc1">
+						Etaxi is one of the best taxi booking application which is available for both iPhone and Android platform. The location of the passenger and driver can be located on the map. The passenger can view the arrival of the taxi using GPS facility. Once when the trip is completed, the fare is calculated automatically using the distance along with waiting charges.</p>
+					 <a class="pricing_app" rel="nofollow" href="https://www.ibookride.com/" target="_blank" title="App Store"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.etaxi.passenger" rel="nofollow" target="_blank" title="Play Store"> </a> </div>
+				<div class="portfolio_img wow fadeInRight animated">
+					<a href="http://edisoncars.taximobility.com/" rel="nofollow" target="_blank" title="Edison"><img alt="512 Rides" src="public/images/04.png" /> </a> <a class="yellow_but" href="http://edisoncars.taximobility.com/" rel="nofollow" target="_blank" title="Edison">View Website</a> 
+					<div class="appstore_link">
+						<a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.etaxi.passenger" rel="nofollow" target="_blank" title="App Store"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.etaxi.passenger" rel="nofollow" target="_blank" title="App Store"> </a></div>
+				</div>
+			</div>
+		</li>
+		<li class="fivetwelverides" id="512rides">
+			<div class="align_center">
+				<div class="portfolio_img wow fadeInLeft animated">
+					<a href="http://512rides.com/" rel="nofollow" target="_blank" title="512 Rides"><img alt="512 Rides" src="public/images/07.png" /> </a><a class="yellow_but" href="http://512rides.com/" rel="nofollow" target="_blank" title="512 Rides">View Website</a>
+					<div class="appstore_link">
+						<a class="pricing_app" href="https://itunes.apple.com/in/app/512-rides/id935241302?mt=8" rel="nofollow" target="_blank" title="App Store"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.rides.passenger" rel="nofollow" target="_blank" title="Play Store"> </a></div>
+				</div>
+				<div class="portfolio_info" style="padding:0 0 0 3%;">
+					<h2 class="title3">
+						512 Rides</h2>
+					<p class="desc1">
+						This is an appealing mobile app developed for taxi booking in both iPhone and Android platform. The passenger has to fill the information such as pick-up and drop location, name, phone number, and message to sent it across to the company to book the taxi. They can choose the car type such as a/c, non a/c, luxury, etc. Fare is calculated automatically.</p>
+					 <a class="pricing_app" href="https://itunes.apple.com/in/app/512-rides/id935241302?mt=8" rel="nofollow" target="_blank" title="App Store"> </a> <a class="pricing_app play_store" href="https://play.google.com/store/apps/details?id=com.rides.passenger" rel="nofollow" target="_blank" title="Play Store"> </a>  </div>
+			</div>
+		</li> !-->
+		<li>
+			<div class="video_fade" id="vfade" style="display:none;">
+				&nbsp;</div>
+			<div class="video_outer" id="sho" style="display:none;">
+				<div class="video_block">
+					<a class="close_video" href="javascript:;" id="close_vx" onclick="popup_close('sho');">X</a></div>
+				<iframe allowfullscreen="" frameborder="0" height="281" id="vdemo" mozallowfullscreen="" src="https://player.vimeo.com/video/119230646" webkitallowfullscreen="" width="500"></iframe></div>
+		</li>
+	</ul>
+</div>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#sho").hide();
+		$( "#palys" ).click(function() {
+		var source="https://player.vimeo.com/video/123702237?autoplay=1";
+		$('iframe#vdemo').attr('src',source);
+		$("#sho").show();
+		$('#vfade').show();
+	});
+});
+ function popup_close(popup_block){
+	$('#'+popup_block).hide();
+	$('#vfade').hide(); 
+	$('iframe#vdemo').attr('src',''); 
+}
+</script>

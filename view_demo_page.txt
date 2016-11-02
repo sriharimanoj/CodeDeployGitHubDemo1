@@ -1,0 +1,154 @@
+<div class="feature_content_outer demo_content_outer">
+	<div class="feature_content_inner clearfix">
+		<div class="demo_inner">
+			<div class="demo_page">
+				<div class="fc_block fc_block_arrange clearfix">
+					<div class="demo_fc_block">
+						<div class="fc_image fc_image_1">
+							<img alt="Taximobility demo" src="public/images/demo_img1.png" /></div>
+						<div class="fc_info">
+							<h3 class="ddetail_title">
+								Dispatcher Login Details</h3>
+							<div class="demo_detail_list">
+								<a class="view_demo_but" href="http://demo.taximobility.com/manager/login" target="_blank" title="http://demo.taximobility.com/manager/login">View Demo</a></div>
+						</div>
+					</div>
+				</div>
+				<div class="fc_block clearfix">
+					<div class="demo_fc_block">
+						<div class="fc_info align_right">
+							<h3 class="ddetail_title">
+								Company Login Details</h3>
+							<div class="demo_detail_list">
+								<a class="view_demo_but" href="http://demo.taximobility.com/company/login" target="_blank" title="http://demo.taximobility.com/company/login">View Demo</a></div>
+						</div>
+						<div class="fc_image align-right">
+							<img alt="Taximobility demo" src="public/images/demo_img3.png" /></div>
+					</div>
+				</div>
+				<div class="fc_block fc_block_arrange clearfix">
+					<div class="demo_fc_block">
+						<div class="fc_image">
+							<img alt="Taximobility demo" src="public/images/demoimg_pas_android.png" /></div>
+						<div class="fc_info">
+							<h3 class="ddetail_title">
+								Passenger App - Android</h3>
+							<div class="demo_detail_list">
+								<a class="demo_appstore google_playstore" href="https://play.google.com/store/apps/details?id=com.Taximobility" target="_blank" title="https://play.google.com/store/apps/details?id=com.Taximobility">&nbsp;</a></div>
+							<div class="demo_detail_list">
+								<a class="conta_link" href="/contact-us.html" target="_blank" title="Contact Us">Contact us for login details</a></div>
+						</div>
+					</div>
+				</div>
+				<div class="fc_block clearfix">
+					<div class="demo_fc_block">
+						<div class="fc_info align_right">
+							<h3 class="ddetail_title">
+								Passenger App - iOS</h3>
+							<div class="demo_detail_list">
+								<a class="demo_appstore apple_appstore" href="https://itunes.apple.com/in/app/taximobility-passenger/id981530483?mt=8" target="_blank" title="https://itunes.apple.com/in/app/taximobility-passenger/id981530483?mt=8">&nbsp;</a></div>
+							<div class="demo_detail_list">
+								<a class="conta_link" href="/contact-us.html" target="_blank" title="Contact Us">Contact us for login details</a></div>
+						</div>
+						<div class="fc_image align-right">
+							<img alt="Taximobility demo" src="public/images/demoimg_pas_ios.png" /></div>
+					</div>
+				</div>
+				<div class="fc_block fc_block_arrange clearfix">
+					<div class="demo_fc_block">
+						<div class="fc_image">
+							<img alt="Taximobility demo" src="public/images/demoimg_dri_android.png" /></div>
+						<div class="fc_info">
+							<h3 class="ddetail_title">
+								Driver App - Android</h3>
+							<div class="demo_detail_list">
+								<a class="demo_appstore google_playstore" href="https://play.google.com/store/apps/details?id=com.Taximobility.driver" target="_blank" title="https://play.google.com/store/apps/details?id=com.Taximobility.driver">&nbsp;</a></div>
+							<div class="demo_detail_list">
+								<a class="conta_link" href="/contact-us.html" target="_blank" title="Contact Us">Contact us for login details</a></div>
+						</div>
+					</div>
+				</div>
+				<div class="fc_block bg_none clearfix">
+					<div class="demo_fc_block">
+						<div class="fc_info align_right">
+							<h3 class="ddetail_title">
+								Driver App - iOS</h3>
+							<div class="demo_detail_list">
+								<a class="demo_appstore apple_appstore" href="https://itunes.apple.com/us/app/driver-taximobility/id1029923263?ls=1&amp;mt=8" target="_blank" title="https://itunes.apple.com/us/app/driver-taximobility/id1029923263?ls=1&amp;mt=8">&nbsp;</a></div>
+							<div class="demo_detail_list">
+								<a class="conta_link" href="/contact-us.html" target="_blank" title="Contact Us">Contact us for login details</a></div>
+						</div>
+						<div class="fc_image align-right">
+							<img alt="Taximobility demo" src="public/images/demoimg_dri_ios.png" /></div>
+					</div>
+				</div>
+			</div>
+			<div class="demo_contact_form">
+				<h2>
+					Receive a Free Custom Quote! Submit details</h2>
+				<form action="/users/contactus" autocomplete="off" method="POST" name="demo" onsubmit="return check_valid_common2();">
+					<ul>
+						<li>
+							<div class="demo_inbx">
+								<span class="chat_icon chat_icon1">&nbsp;</span> <input name="first_name" placeholder="Name" type="text" value="" /></div>
+								<em style="color:red" id="demo_name_err"></em>
+						</li>
+						<li>
+							<div class="demo_inbx">
+								<span class="chat_icon chat_icon2">&nbsp;</span> <input name="email" placeholder="Email" type="text" value="" /></div>
+								<em style="color:red" id="demo_email_err"></em>
+						</li>
+						<li>
+							<div class="demo_inbx">
+								<span class="chat_icon chat_icon3">&nbsp;</span> <input name="phone" placeholder="Phone" type="text" value="" /></div>
+								<em id="demo_tell_err" style="color:red"></em>
+						</li>
+						<li>
+							<div class="demo_inbx">
+								<select name="product"><option>Taxi &amp; Transportation</option><option>Delivery &amp; Logistics</option><option value="241">Limousine Software</option></select></div>
+								<em style="color:red" id="demo_product_err"></em>
+						</li>
+						<li class="demo_secure">
+							<div class="chat_captcha_sec">
+								<p id="chgcapcha">
+									acbde</p>
+							</div>
+							<div class="chat_captcha_inbx">
+								<input name="security_code" placeholder="Security code" type="text" value="" /></div>
+								<em style="color:red" id="demo_captca_err"></em>
+						</li>
+						<li>
+							<input class="chat_submit" name="submit_company" type="submit" value="Leave a message" /></li>
+						<li class="demo_textarea">
+							<div class="demo_inbx">
+								<textarea cols="1" name="message" placeholder="Message" rows="1"></textarea></div>
+								<em style="color:red" id="demo_desc_err"></em>
+						</li>
+					</ul>
+				<input type="hidden" name="last_name" value="" />
+				<input type="hidden" name="budget" value="0">
+				<input type="hidden" name="industry" value="0">
+				<input type="hidden" name="revenue" value="0">
+				<input type="hidden" name="no_of_employees" value="0">
+				<input type="hidden" name="org_captcha" value="acbde" />
+				<input type="hidden" name="category" value="5" />
+				<input type="hidden" name="services"  value=""/>
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+$(function(){
+// Check the initial Poistion of the Sticky Header
+var stickyHeaderTop = $('.demo_contact_form').offset().top;
+
+$(window).scroll(function(){
+if( $(window).scrollTop() > stickyHeaderTop ) {
+$('.demo_contact_form').css({position: 'fixed', top: '30px',right:'90px'});
+} else {
+$('.demo_contact_form').css({position: 'static', top: '0px'});
+}
+});
+});
+</script>
